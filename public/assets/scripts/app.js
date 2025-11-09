@@ -13,9 +13,7 @@ document.addEventListener('DOMContentLoaded', ( ) => {
     }
 });
 
-// ============================================
-// 📖 READ - Buscar dados do JSON Server
-// ============================================
+
 
 async function buscarDados() {
     try {
@@ -272,16 +270,13 @@ async function montarPaginaDetalhes() {
     `;
 }
 
-// ============================================
-// 📝 Página de Cadastro (cadastro_deuses.html)
-// ============================================
 
 async function montarPaginaCadastro() {
     const params = new URLSearchParams(window.location.search);
     const id = params.get('id');
     const formulario = document.getElementById('formulario-cadastro');
 
-    // Se há um ID na URL, estamos editando
+
     if (id) {
         const deus = await buscarDeusporId(id);
         if (deus) {

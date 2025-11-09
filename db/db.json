@@ -1,18 +1,23 @@
 {
-  "usuarios": [
+  "deuses": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
-    },
-    {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": 1,
+      "titulo": "Zeus",
+      "resumo": "Deus dos céus e trovões.",
+      "detalhes_completos": "Zeus é o deus supremo do Olimpo...",
+      "figura_principal": "img/zeus.png",
+      "destaque": true,
+      "informacoes": {
+        "Nome Grego": "Zeus",
+        "Domínio": "Céus",
+        "Símbolos": "Raio",
+        "Pai": "Cronos",
+        "Mãe": "Reia"
+      },
+      "imagens_secundarias": [
+        "img/zeus1.png",
+        "img/zeus2.png"
+      ]
     }
   ]
 }

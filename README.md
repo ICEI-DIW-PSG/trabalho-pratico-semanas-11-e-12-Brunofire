@@ -6,15 +6,17 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome:Bruno Hemrique Guedes
+- Matricula:898113
+- Proposta de projeto escolhida: Deuses 
 - Breve descrição sobre seu projeto:
 
 **Print dos testes da API com Postman ou similar**
 
 << COLOQUE A IMAGEM GET AQUI >>
 
+
+!![alt text](image-2.png)
 << COLOQUE A IMAGEM POST AQUI >>
 
 << COLOQUE A IMAGEM PUT AQUI >>
@@ -24,7 +26,7 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](image.png)
 ## **Orientações Gerais**
 
 Nesse projeto você vai encontrar a seguinte estrutura base:
