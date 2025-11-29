@@ -1,25 +1,15 @@
-{
-  "name": "template-diw-20251-semana-11",
-  "version": "1.0.0",
-  "description": "Back end com JSONServer. Projeto da disciplina de Desenvolvimento de Interfaces Web de vários cursos da PUC Minas",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx json-server ./db/db.json"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.17.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ICEI-DIW-PSG/trabalho-pratico-semanas-11-e-12-Brunofire.git"
-  },
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/ICEI-DIW-PSG/trabalho-pratico-semanas-11-e-12-Brunofire/issues"
-  },
-  "homepage": "https://github.com/ICEI-DIW-PSG/trabalho-pratico-semanas-11-e-12-Brunofire#readme"
-}
+  {
+    "name": "template-diw-20251-semana-11",
+    "version": "1.0.0",
+    "description": "Back end com JSONServer. Projeto da disciplina de Desenvolvimento de Interfaces Web de vários cursos da PUC Minas",
+    "main": "",
+"scripts": {
+  "start": "npx json-server ./db/db.json --port 3000"
+},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "json-server": "0.17.0"
+    }
+  }

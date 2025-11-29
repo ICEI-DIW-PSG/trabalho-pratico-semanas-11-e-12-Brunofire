@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function buscarDados() {
     try {
-        const response = await fetch('Deuses.json');
+        const response = await fetch("http://localhost:3000");
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }

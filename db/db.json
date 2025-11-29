@@ -1,7 +1,7 @@
 {
   "deuses": [
     {
-      "id": 0,
+      "id": "0",
       "titulo": "Poseidon",
       "figura_principal": "img/poseidon.png",
       "destaque": true,
@@ -13,88 +13,87 @@
         "Pai": "Cronos",
         "Mãe": "Reia"
       },
-      "detalhes_completos": "Poseidon era um dos Doze Olimpianos e seu palácio, feito de corais e gemas, ficava no fundo do oceano. Como o deus dos terremotos, era conhecido como 'Abalador da Terra'. Sua ira podia causar desde tempestades violentas e maremotos até secas terríveis.",
-      "imagens_secundarias": ["img/poseidon.png", "img/hades.jpg", "img/kratos.jpg"]
+      "detalhes_completos": "Poseidon era um dos Doze Olimpianos e seu palácio, feito de corais e gemas, ficava no fundo do oceano.",
+      "imagens_secundarias": [
+        "img/poseidon.png",
+        "img/hades.jpg",
+        "img/kratos.jpg"
+      ]
     },
     {
-      "id": 1,
-      "titulo": "Zeus",
-      "figura_principal": "img/Zeus.jpg",
-      "destaque": true,
-      "resumo": "Rei dos Deuses, senhor do céu, do trovão e da justiça. Famoso por sua autoridade.",
-      "informacoes": {
-        "Nome Grego": "Ζεύς",
-        "Domínio": "Céu, Trovão, Relâmpago, Lei, Ordem, Justiça",
-        "Símbolos": "Raio, Águia, Touro, Carvalho",
-        "Pai": "Cronos",
-        "Mãe": "Reia"
-      },
-      "detalhes_completos": "Filho mais novo dos titãs Cronos e Reia, Zeus liderou a guerra contra os Titãs. Após a vitória, ele e seus irmãos, Hades e Poseidon, dividiram o mundo. Ele era o guardião da lei e da ordem, punindo os que quebravam juramentos.",
-      "imagens_secundarias": ["img/Zeus.jpg", "img/hades.jpg", "img/kratos.jpg"]
+      "nome": "Zeus Atualizado",
+      "descricao": "Rei dos deuses",
+      "poder": "Trovões",
+      "id": "1"
     },
     {
-      "id": 2,
+      "id": "2",
       "titulo": "Hades",
       "figura_principal": "img/hades.jpg",
       "destaque": false,
-      "resumo": "Deus do Submundo e da Riqueza. Sombrio e severo, mas justo em seus julgamentos.",
+      "resumo": "Deus do Submundo e da Riqueza.",
       "informacoes": {
         "Nome Grego": "ᾍδης",
-        "Domínio": "Submundo, Mortos, Riquezas subterrâneas (metais, gemas)",
+        "Domínio": "Submundo, Mortos, Riquezas subterrâneas",
         "Símbolos": "Elmo da Invisibilidade, Cérbero, Cipreste",
         "Pai": "Cronos",
         "Mãe": "Reia"
       },
-      "detalhes_completos": "Embora temido, Hades não era o deus da morte (esse era Tânato). Ele presidia o reino dos mortos, um lugar para onde todas as almas iam. Sua maior história de conflito foi o rapto de Perséfone, que se tornou sua rainha.",
-      "imagens_secundarias": ["img/hades.jpg", "img/poseidon.png", "img/kratos.jpg"]
+      "detalhes_completos": "Embora temido, Hades não era o deus da morte...",
+      "imagens_secundarias": [
+        "img/hades.jpg",
+        "img/poseidon.png",
+        "img/kratos.jpg"
+      ]
     },
     {
-      "id": 3,
-      "titulo": "Kratos",
-      "figura_principal": "img/kratos.jpg",
-      "destaque": true,
-      "resumo": "O Fantasma de Esparta. Um semideus consumido pela fúria e vingança contra os deuses.",
-      "informacoes": {
-        "Título": "Deus da Guerra",
-        "Afiliação": "Esparta (anteriormente), Panteão Grego (anteriormente)",
-        "Símbolos": "Lâminas do Caos, Machado Leviatã",
-        "Pai": "Zeus",
-        "Mãe": "Calisto"
-      },
-      "detalhes_completos": "Kratos foi um general espartano que vendeu sua alma a Ares. Enganado para matar sua própria família, ele jurou vingança e sua jornada o levou a destruir quase todo o panteão grego, tornando-se o novo Deus da Guerra. Anos depois, busca uma vida tranquila nas terras nórdicas com seu filho, Atreus.",
-      "imagens_secundarias": ["img/kratos.jpg", "img/poseidon.png", "img/Zeus.jpg"]
-    },
-    {
-      "id": 4,
+      "id": "4",
       "titulo": "Thor",
       "figura_principal": "img/thor.png",
       "destaque": false,
-      "resumo": "Deus do Trovão, Força e Proteção. O mais poderoso guerreiro dos deuses de Asgard.",
+      "resumo": "Deus do Trovão, Força e Proteção.",
       "informacoes": {
         "Nome Nórdico": "Þórr",
-        "Domínio": "Trovão, Relâmpago, Força, Proteção da humanidade",
-        "Símbolos": "Mjölnir (martelo), Cinto de força, Luvas de ferro",
+        "Domínio": "Trovão, Relâmpago, Força, Proteção",
+        "Símbolos": "Mjölnir, Cinto de força, Luvas de ferro",
         "Pai": "Odin",
-        "Mãe": "Jörð (a Terra)"
+        "Mãe": "Jörð"
       },
-      "detalhes_completos": "Thor é uma das figuras centrais da mitologia nórdica. Filho de Odin, o 'Pai de Todos', Thor é o campeão de Asgard e protetor de Midgard (a Terra). Com seu martelo Mjölnir, ele enfrenta gigantes e monstros, garantindo a ordem nos Nove Reinos.",
-      "imagens_secundarias": ["img/thor_card.jpg", "img/kratos_card.jpg", "img/zeus_card.jpg"]
+      "detalhes_completos": "Thor é uma das figuras centrais da mitologia nórdica...",
+      "imagens_secundarias": [
+        "img/thor_card.jpg",
+        "img/kratos_card.jpg",
+        "img/zeus_card.jpg"
+      ]
     },
     {
-      "id": 5,
+      "id": "5",
       "titulo": "Týr",
       "figura_principal": "img/tyr.png",
       "destaque": false,
-      "resumo": "O Deus Nórdico da Guerra, da Lei e da Justiça. Conhecido por seu sacrifício e honra.",
+      "resumo": "O Deus Nórdico da Guerra.",
       "informacoes": {
         "Nome Nórdico": "Týr",
-        "Domínio": "Guerra, Justiça, Lei, Juramentos, Honra",
-        "Símbolos": "Lança, Mão ou braço ausente",
-        "Pai": "Odin (ou Hymir, dependendo da fonte)",
-        "Mãe": "Desconhecida (ou Frigg)"
+        "Domínio": "Guerra, Justiça, Lei",
+        "Símbolos": "Lança, Mão ausente",
+        "Pai": "Odin",
+        "Mãe": "Desconhecida"
       },
-      "detalhes_completos": "Týr é o deus da guerra e da justiça na mitologia nórdica, frequentemente associado à ordem e aos procedimentos legais. Seu ato mais famoso foi sacrificar sua mão na boca do lobo Fenrir para que os outros deuses pudessem prender a fera, um testamento de sua imensa coragem e senso de dever.",
-      "imagens_secundarias": ["img/tyr.png", "img/thor_card.jpg", "img/kratos_card.jpg"]
+      "detalhes_completos": "Týr é o deus da guerra e da justiça...",
+      "imagens_secundarias": [
+        "img/tyr.png",
+        "img/thor_card.jpg",
+        "img/kratos_card.jpg"
+      ]
+    },
+    {
+      "id": "8fa8"
+    },
+    {
+      "id": "8253",
+      "nome": "Hades",
+      "descricao": "Deus do submundo",
+      "poder": "Imortalidade"
     }
   ]
 }
