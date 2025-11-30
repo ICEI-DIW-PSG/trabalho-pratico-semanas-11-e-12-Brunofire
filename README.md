@@ -6,10 +6,11 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Bruno Henrique Guedes Da Cruz
+- Matricula:868113
+- Proposta de projeto escolhida:Expositiva
+- Breve descrição sobre seu projeto:um breve exposição sobre o mundo de gow
+
 
 **Print dos testes da API com Postman ou similar**
 
@@ -25,7 +26,7 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](image-7.png)
 ## **Orientações Gerais**
 
 Nesse projeto você vai encontrar a seguinte estrutura base:

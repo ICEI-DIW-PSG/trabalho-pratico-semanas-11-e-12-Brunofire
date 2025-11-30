@@ -13,7 +13,7 @@
         "Pai": "Cronos",
         "Mãe": "Reia"
       },
-      "detalhes_completos": "Poseidon era um dos Doze Olimpianos e seu palácio, feito de corais e gemas, ficava no fundo do oceano.",
+      "detalhes_completos": "Poseidon era um dos Doze Olimpianos e seu palácio ficava no fundo do oceano.",
       "imagens_secundarias": [
         "img/poseidon.png",
         "img/hades.jpg",
@@ -21,79 +21,25 @@
       ]
     },
     {
-      "nome": "Zeus Atualizado",
-      "descricao": "Rei dos deuses",
-      "poder": "Trovões",
-      "id": "1"
+      "id": "1",
+      "titulo": "Zeus",
+      "figura_principal": "img/zeus.jpg",
+      "resumo": "Rei dos deuses e senhor dos céus.",
+      "detalhes_completos": "Zeus governa o Olimpo e controla trovões."
     },
     {
       "id": "2",
       "titulo": "Hades",
       "figura_principal": "img/hades.jpg",
-      "destaque": false,
       "resumo": "Deus do Submundo e da Riqueza.",
-      "informacoes": {
-        "Nome Grego": "ᾍδης",
-        "Domínio": "Submundo, Mortos, Riquezas subterrâneas",
-        "Símbolos": "Elmo da Invisibilidade, Cérbero, Cipreste",
-        "Pai": "Cronos",
-        "Mãe": "Reia"
-      },
-      "detalhes_completos": "Embora temido, Hades não era o deus da morte...",
-      "imagens_secundarias": [
-        "img/hades.jpg",
-        "img/poseidon.png",
-        "img/kratos.jpg"
-      ]
+      "detalhes_completos": "Hades governa o reino dos mortos."
     },
     {
-      "id": "4",
-      "titulo": "Thor",
-      "figura_principal": "img/thor.png",
-      "destaque": false,
-      "resumo": "Deus do Trovão, Força e Proteção.",
-      "informacoes": {
-        "Nome Nórdico": "Þórr",
-        "Domínio": "Trovão, Relâmpago, Força, Proteção",
-        "Símbolos": "Mjölnir, Cinto de força, Luvas de ferro",
-        "Pai": "Odin",
-        "Mãe": "Jörð"
-      },
-      "detalhes_completos": "Thor é uma das figuras centrais da mitologia nórdica...",
-      "imagens_secundarias": [
-        "img/thor_card.jpg",
-        "img/kratos_card.jpg",
-        "img/zeus_card.jpg"
-      ]
-    },
-    {
-      "id": "5",
-      "titulo": "Týr",
-      "figura_principal": "img/tyr.png",
-      "destaque": false,
-      "resumo": "O Deus Nórdico da Guerra.",
-      "informacoes": {
-        "Nome Nórdico": "Týr",
-        "Domínio": "Guerra, Justiça, Lei",
-        "Símbolos": "Lança, Mão ausente",
-        "Pai": "Odin",
-        "Mãe": "Desconhecida"
-      },
-      "detalhes_completos": "Týr é o deus da guerra e da justiça...",
-      "imagens_secundarias": [
-        "img/tyr.png",
-        "img/thor_card.jpg",
-        "img/kratos_card.jpg"
-      ]
-    },
-    {
-      "id": "8fa8"
-    },
-    {
-      "id": "8253",
-      "nome": "Hades",
-      "descricao": "Deus do submundo",
-      "poder": "Imortalidade"
+      "titulo": "adsadsa",
+      "resumo": "dsada",
+      "figura_principal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmA4w36KHQ4e87PgI_bM3S2xV5mVmLXGDjEidDSVbm8fQl57_k-IWMfrt9KDsVBE81QH1qVDdT251vdJsSgsyXLM3l8Gc4ZmCl8BAymzYMg&s=10",
+      "detalhes_completos": "sdadsdasa",
+      "id": "rzvc1ai"
     }
   ]
 }

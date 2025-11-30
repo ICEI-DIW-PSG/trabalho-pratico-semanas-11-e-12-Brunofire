@@ -12,7 +12,7 @@
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container">
             <a class="navbar-brand" href="index.html">
-                <img src="img/logo.png" alt="Logo" style="height: 40px;">
+                <h3 class="text-white">Panteão</h3>
             </a>
         </div>
     </nav>
@@ -21,36 +21,29 @@
 <main class="container my-5">
     <h1 class="mb-4">Cadastro de Deuses</h1>
 
-    <form id="formulario-cadastro" class="row g-3">
-        <div class="col-12">
-            <label for="titulo" class="form-label">Nome do Deus</label>
-            <input type="text" class="form-control" id="titulo" required>
+    <form id="formCriar">
+        <div class="mb-3">
+            <label class="form-label">Título</label>
+            <input type="text" id="novoTitulo" class="form-control" required>
         </div>
 
-        <div class="col-12">
-            <label for="resumo" class="form-label">Resumo</label>
-            <textarea class="form-control" id="resumo" rows="3" required></textarea>
+        <div class="mb-3">
+            <label class="form-label">Resumo</label>
+            <textarea id="novoResumo" class="form-control" required></textarea>
         </div>
 
-        <div class="col-12">
-            <label for="detalhes_completos" class="form-label">Detalhes Completos</label>
-            <textarea class="form-control" id="detalhes_completos" rows="5" required></textarea>
+        <div class="mb-3">
+            <label class="form-label">Imagem Principal (URL)</label>
+            <input type="text" id="novaImagem" class="form-control" required>
         </div>
 
-        <div class="col-12">
-            <label for="figura_principal" class="form-label">URL da Imagem Principal</label>
-            <input type="text" class="form-control" id="figura_principal" required>
+        <div class="mb-3">
+            <label class="form-label">Detalhes Completos</label>
+            <textarea id="novoDetalhes" class="form-control" required></textarea>
         </div>
 
-        <div class="col-12 form-check">
-            <input type="checkbox" class="form-check-input" id="destaque">
-            <label class="form-check-label" for="destaque">Destaque?</label>
-        </div>
-
-        <div class="col-12">
-            <button type="submit" class="btn btn-primary">Salvar Deus</button>
-            <a href="index.html" class="btn btn-secondary">Cancelar</a>
-        </div>
+        <button class="btn btn-primary">Salvar</button>
+        <a href="index.html" class="btn btn-secondary">Cancelar</a>
     </form>
 </main>
 
